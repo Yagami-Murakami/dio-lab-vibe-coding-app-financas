@@ -15,6 +15,7 @@ Veja o **CyberFlow AI** transformando frases naturais em controle financeiro, co
 
 ![GIF de Demonstração do CyberFlow](https://github.com/user-attachments/assets/da0ab47d-3354-41ac-ae7b-1f5bc11cdc3e)
 *(O sistema reconhecendo valores, categorizando transações e a navegação entre metas e carteira)*
+
 ---
 
 ## 🚀 Sobre o Projeto

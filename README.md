@@ -69,3 +69,20 @@ Crie um aplicativo de Finanças Pessoais "CyberFlow" com as seguintes regras:
    - Use Framer Motion para animações de entrada.
    - Persistência automática em LocalStorage.
    - Layout responsivo com navegação mobile na parte inferior.
+
+
+📚 Reflexão e Aprendizados
+Participar deste desafio no Lab da DIO solidificou o conceito de "Vibe Coding":
+
+Comunicação Assertiva com IA: Aprendi que definir a "vibe" estética (cores, fontes, estilo) no início do prompt economiza horas de CSS manual.
+
+Lógica Complexa via Prompt: Desenvolver o parser de texto exigiu iterar sobre casos de erro (ex: números no nome do produto confundindo o valor), o que aprimorou minha capacidade de descrever regras de negócio para a IA.
+
+Integração de Bibliotecas: A IA foi excelente em unir o React com Tailwind e Framer Motion, criando uma base de código limpa que eu pude refinar.
+
+🔗 Links Úteis:https://gemini.google.com/share/42bcf6a380ba
+💻 Código Fonte: Acessar Repositório no GitHub
+
+🤖 Conversa Original com a IA: Ver Histórico de Criação no Gemini
+
+<p align="center"> Feito com 💜 e muita Vibe Cyberpunk por <strong>Antonio Jonas (Tuninho)</strong> no Lab da DIO. </p>

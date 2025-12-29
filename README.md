@@ -55,8 +55,8 @@ Participar deste desafio no Lab da DIO solidificou o conceito de **"Vibe Coding"
 
 ### 🔗 Links Úteis
 
-- [🤖 Conversa Original com a IA (Gemini)](https://gemini.google.com/share/42bcf6a380ba)
-- [💻 Código Fonte no GitHub](LINK_DO_SEU_REPOSITORIO_AQUI)
+- [🤖 Site Original com a IA (Gemini)](https://gemini.google.com/share/42bcf6a380ba)
+  
 
 ---
 

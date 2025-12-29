@@ -2,6 +2,21 @@
 
 > Projeto desenvolvido durante o Lab da DIO com foco em "Vibe Coding".
 
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/AI-Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bb405d79-2349-4f62-9e0b-ce0f6f2b9edb" alt="Demonstração do CyberFlow - Vibe Coding" width="100%">
+</div>
+
+---
+
 ## 🎯 O Desafio (Prompt Utilizado)
 
 O objetivo foi atuar como um **Engenheiro de Software Sênior** para criar um gerenciador de finanças com as seguintes especificações:
